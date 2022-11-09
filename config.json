@@ -1,0 +1,58 @@
+{
+    "name": "Bruno Tiago Corso",
+    "job": "Estudante e Entusiasta do Front-end",
+    "github": "bruno-corso",
+    "playlists": {
+        "Psy-Trance": [
+            {
+                "title": "Tristan Live @ Ozora 2018 (full set)",
+                "url": "https://www.youtube.com/watch?v=R4LKjRJUGkk=3153s",
+                "thumb": "https://img.youtube.com/vi/R4LKjRJUGkk/hqdefault.jpg"
+            },
+            {
+                "title": "Astrix @ Universo Paralello 2019-2020 [Full Set]",
+                "url": "https://www.youtube.com/watch?v=8eYEW4q42y8&t=290s",
+                "thumb": "https://img.youtube.com/vi/8eYEW4q42y8/hqdefault.jpg"
+            },
+            {
+                "title": "Vegas @ Universo Paralello Festival #15 2019/2020 FULL VIDEO",
+                "url": "https://www.youtube.com/watch?v=6bRGO7r0E-Y&ab_channel=VegasLive",
+                "thumb": "https://img.youtube.com/vi/6bRGO7r0E-Y/hqdefault.jpg"
+            }
+        ],
+        "Jogos": [
+            {
+                "title": "BKSEdu - Litle Nightmares",
+                "url": "https://www.youtube.com/watch?v=9uNw7lV-p6U",
+                "thumb": "https://img.youtube.com/vi/9uNw7lV-p6U/hqdefault.jpg"
+            },
+            {
+                "title": "INSIDE - Gameplay BKSEdu",
+                "url": "https://www.youtube.com/watch?v=d7TGchyu2aU",
+                "thumb": "https://img.youtube.com/vi/d7TGchyu2aU/hqdefault.jpg"
+            },
+            {
+                "title": "Last Of Us I - Gameplay",
+                "url": "https://www.youtube.com/watch?v=fWPdNa72CuM&list=PLH9fqbYeMD3MNKJDVKYa_rw-r2dnOYFxk&ab_channel=BRKsEDU",
+                "thumb": "https://img.youtube.com/vi/fWPdNa72CuM/hqdefault.jpg"
+            }
+        ],
+        "Entreterimento": [
+            {
+                "title": "PÉROLAS DO IFOOD 😂",
+                "url": "https://www.youtube.com/watch?v=nkd0lPvPe-g",
+                "thumb": "https://img.youtube.com/vi/nkd0lPvPe-g/hqdefault.jpg"
+            },
+            {
+                "title": "isso tem 50% de chance de ser verdade",
+                "url": "https://www.youtube.com/watch?v=HSp703HbUbI",
+                "thumb": "https://img.youtube.com/vi/HSp703HbUbI/hqdefault.jpg"
+            },
+            {
+                "title": "Memes that cured my depression",
+                "url": "https://www.youtube.com/watch?v=OngL0sDtBAA",
+                "thumb": "https://img.youtube.com/vi/OngL0sDtBAA/hqdefault.jpg"
+            }
+        ]
+    }
+}
